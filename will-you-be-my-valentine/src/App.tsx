@@ -15,12 +15,12 @@ const decisionButton = {
 const feedBackMessages = [
   '',
   'pleaseeeeeee',
-  ':((((((((',
-  'you\'re being silly',
+  'liar',
+  'pants are on fire',
   'please reconsider',
-  'is that really your answer :(',
+  'pls we can get bobar',
   'don\'t make me do this...',
-  'oh no, where did the other button go :)))'
+  'oops theres only one button now'
 ]
 
 
@@ -112,7 +112,7 @@ function App() {
                 color: 'white'
               }
             }}>
-            { disableYesButton ? 'u the best :)<3' : 'Yes' }
+            { disableYesButton ? 'love u annie bannanie :)<3' : 'Yes' }
           </Button>
 
           { disableNoButton ? 
